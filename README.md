@@ -5,9 +5,13 @@
 
 ## Description
 
+![PWA](assets/pwa.png)
+
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+Please visit the deployed link on [Heroku](https://yozi-budget-tracker-18.herokuapp.com/).
 
 ## Table of Contents
 
